@@ -1,6 +1,7 @@
 # Virtual-Memory-Simulator
 
 UGA CSCI4730 Project detailed around understanding how virtual memory is used in conjunction with physical memory to improve code's runtime. 
+
 Usage: ./vm 3 1 ./input_file  // 3 Physical frames, replacement policy 1 (FIFO)
 Number of virtual pages and processes are defined in the input file
 
